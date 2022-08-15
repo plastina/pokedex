@@ -7,6 +7,8 @@ Utilizei alguns conceitos importantes como useState, localStorage, hooks, etc.
 
 Este é o resultado: https://github.com/plastina/pokedex
 
+![image](https://user-images.githubusercontent.com/87103282/184710561-6382278f-d747-4fd2-8591-c67ccc208634.png)
+
 
 ## Stack utilizada
 
