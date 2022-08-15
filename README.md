@@ -1,9 +1,7 @@
 
 # Pokedex
 
-Esse projeto foi desenvolvido com o intuito de estudar e aprimorar minhas habilidades no consumo da PokeAPI. 
-
-Utilizei alguns conceitos importantes como useState, localStorage, hooks, etc.
+Esse projeto foi desenvolvido com o intuito de estudar e aprimorar minhas habilidades no consumo da PokeAPI. Utilizei alguns conceitos importantes como useState, localStorage, hooks, etc.
 
 Este é o resultado: https://github.com/plastina/pokedex
 
