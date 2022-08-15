@@ -1,7 +1,7 @@
 
 # Pokedex
 
-Esse projeto foi desenvolvido com o intuito de estudar e aprimorar minhas habilidades no consumo da PokeAPI. Utilizei as seguintes stacks: JS, HTML, CSS e React. 
+Esse projeto foi desenvolvido com o intuito de estudar e aprimorar minhas habilidades no consumo da PokeAPI. 
 
 Utilizei alguns conceitos importantes como useState, localStorage, hooks, etc.
 
